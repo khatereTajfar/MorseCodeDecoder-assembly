@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\Debug\AssemblerApplication3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication3.map</FILE>
+  <FILE>AssemblerApplication3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>30</LINE></Main>
+  <EXT0_ISR><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>55</LINE></EXT0_ISR>
+  <EXT2_ISR><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>65</LINE></EXT2_ISR>
+  <T1OCR_ISR><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>74</LINE></T1OCR_ISR>
+  <HERE><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>52</LINE></HERE>
+  <Init_Timer><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>99</LINE></Init_Timer>
+  <end_interrupt><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>95</LINE></end_interrupt>
+  <continue_interrupt><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>89</LINE></continue_interrupt>
+  <Output><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>121</LINE></Output>
+  <not_e><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>130</LINE></not_e>
+  <end_output><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>157</LINE></end_output>
+  <not_eai><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>144</LINE></not_eai>
+  <not_ea><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>138</LINE></not_ea>
+  <not_eaio><FILE>C:\Users\Khatere Tajfar\Documents\Atmel Studio\7.0\AssemblerApplication3\AssemblerApplication3\main.asm</FILE><LINE>152</LINE></not_eaio>
+ </LABELS>
+</ASSEMBLER_INFO>
